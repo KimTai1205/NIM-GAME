@@ -7,7 +7,9 @@ The traditional game of Nim involves a random number of rows and wooden sticks f
 
 Main menu Interface
 ![image](https://github.com/KimTai1205/NIM-GAME/assets/124069234/8ac20959-7b26-4b99-8038-5b2e6c7c686d)
+
 Player-AI Interface
 ![image](https://github.com/KimTai1205/NIM-GAME/assets/124069234/01ad568c-0c70-4545-bfed-d3553c313cf9)
+
 Player-Player Interface
 ![image](https://github.com/KimTai1205/NIM-GAME/assets/124069234/c736bcf3-2f19-4f80-87ad-65f34c78f284)
